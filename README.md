@@ -38,4 +38,5 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/pycharm-000000?style=for-the-badge&logo=pycharm&logoColor=white">
 </div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?mskim-99=anuraghazra&show_icons=true&theme=omni)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mskim-99&show_icons=true&theme=omni)
