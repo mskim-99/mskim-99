@@ -50,8 +50,10 @@ Here are some ideas to get you started:
     <h3>🔫Engine</h3>
     <img src="https://img.shields.io/badge/GodotEngine-478CBF?style=flat-square&logo=GodotEngine&logoColor=white"/>
     <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"/>
-    <img src="https://img.shields.io/badge/UnrealEngine-0E1128?style=flat-square&logo=UnrealEngine&logoColor=black"/>
+    <img src="https://img.shields.io/badge/UnrealEngine-0E1128?style=flat-square&logo=UnrealEngine&logoColor=white"/>
 </div>
+<br>
 
+## Github Stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mskim-99&show_icons=true&theme=omni)
