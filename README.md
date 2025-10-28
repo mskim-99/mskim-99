@@ -31,6 +31,13 @@ Here are some ideas to get you started:
 </div>
 
 <div>
+    <h3>🧱Framework</h3>
+    <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Vuedotjs-4FC08D?style=flat-square&logo=Vuedotjs&logoColor=white"/>
+</div>
+
+<div>
     <h3>🛠️Tools</h3>
     <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
     <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
@@ -42,7 +49,7 @@ Here are some ideas to get you started:
 <div>
     <h3>🔫Engine</h3>
     <img src="https://img.shields.io/badge/GodotEngine-478CBF?style=flat-square&logo=GodotEngine&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=Unity&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"/>
     <img src="https://img.shields.io/badge/UnrealEngine-0E1128?style=flat-square&logo=UnrealEngine&logoColor=black"/>
 </div>
 
