@@ -1,7 +1,7 @@
 <!-- ## Hi there 👋
 
 <!--
-**mskim-99/mskim-99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**means-kim/means-kim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -56,6 +56,6 @@ Here are some ideas to get you started:
 
 ## 🎯 Github Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mskim-99&show_icons=true&theme=omni)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=means-kim&show_icons=true&theme=omni)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mskim-99&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=means-kim&layout=compact)
