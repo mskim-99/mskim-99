@@ -61,6 +61,12 @@ Here are some ideas to get you started:
 
 ## 🎯 Github Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=means-kim&show_icons=true&theme=omni)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=means-kim&layout=compact)
+<div align="center">
+  <a href="https://github.com/means-kim">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=means-kim&show_icons=true&theme=omni" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/means-kim">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=means-kim&layout=compact&theme=omni" />
+  </a>
+</div>
